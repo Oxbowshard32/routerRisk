@@ -1,0 +1,47 @@
+{
+    "journals": [
+      {
+        "id": 14314,
+        "title": "Statistical Methods",
+        "author": "Jim Dave",
+        "subject": "Math",
+        "info": "Beneath the star-studded canvas of the night sky, a solitary figure stands at the edge of a serene lakeside. Moonlight bathes the landscape in an ethereal glow, casting long, shimmering reflections on the water's surface. In this tranquil moment, the world seems to hold its breath, and a sense of profound stillness permeates the air. The gentle rustle of leaves and the distant call of a night owl create a soothing symphony of nature, as the wanderer contemplates the mysteries of the universe and finds solace in the quietude of the night."
+      },
+      {
+        "id": 54232,
+        "title": "Learn Chemistry",
+        "author": "Bob Burgers",
+        "subject": "Science",
+        "info": "In the heart of the bustling city, hidden beneath a canopy of neon lights and echoing with the rhythmic pulse of life, a quaint little bookstore stands as a silent sanctuary for book lovers. The scent of well-worn pages mingles with the aroma of freshly brewed coffee, inviting visitors to lose themselves among the shelves, where worlds and adventures wait to be discovered. With every turn of a page, the city's cacophony fades into a distant murmur, and the timeless magic of storytelling wraps its gentle embrace around those seeking solace in the written word."
+      },
+      {
+        "id": 65363,
+        "title": "How to workout",
+        "author": "Jerry Kamo",
+        "subject": "Gym",
+        "info": "Amidst the hustle and bustle of a vibrant marketplace, a street performer takes center stage, his guitar strings humming with a melody that weaves through the lively crowd. With each chord and lyric, a tapestry of emotions unfolds, painting a mosaic of smiles and nods in the gathered audience. In this fleeting moment, the world harmonizes with the rhythm of the music, and all cares melt away, replaced by the joy of shared expression and the universal language of melody that transcends boundaries."
+      },
+      {
+        "id": 41903,
+        "title": "College Life",
+        "author": "Harry Silver",
+        "subject": "History",
+        "info": "High on a mountaintop, where the air is crisp and the horizon stretches endlessly, a lone hiker pauses to catch their breath. The world unfolds below in a breathtaking panorama, with valleys, forests, and rivers extending as far as the eye can see. The wind carries the scent of pine and adventure, while the distant calls of birds echo through the vast expanse. In this solitary moment, the hiker becomes one with the majestic landscape, a mere speck in the grandeur of nature, and finds a profound connection to the untamed wilderness that surrounds them."
+      },
+      {
+        "id": 42395,
+        "title": "How to add",
+        "author": "Tom Franks",
+        "subject": "Math",
+        "info": "High on a mountaintop, where the air is crisp and the horizon stretches endlessly, a lone hiker pauses to catch their breath. The world unfolds below in a breathtaking panorama, with valleys, forests, and rivers extending as far as the eye can see. The wind carries the scent of pine and adventure, while the distant calls of birds echo through the vast expanse. In this solitary moment, the hiker becomes one with the majestic landscape, a mere speck in the grandeur of nature, and finds a profound connection to the untamed wilderness that surrounds them."
+
+      },
+      {
+        "id": 30212,
+        "title": "How to read",
+        "author": "Sully Meijer",
+        "subject": "English",
+        "info": "In the heart of the bustling city, hidden beneath a canopy of neon lights and echoing with the rhythmic pulse of life, a quaint little bookstore stands as a silent sanctuary for book lovers. The scent of well-worn pages mingles with the aroma of freshly brewed coffee, inviting visitors to lose themselves among the shelves, where worlds and adventures wait to be discovered. With every turn of a page, the city's cacophony fades into a distant murmur, and the timeless magic of storytelling wraps its gentle embrace around those seeking solace in the written word."
+      }
+    ]
+  }
